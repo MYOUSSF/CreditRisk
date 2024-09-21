@@ -13,7 +13,7 @@ This notebook covers the data preparation process for modeling the Probability o
 - Assessing model performance and dealing with unbalanced data
 - Interpreting feature importance.
 
-### 2. [LGD Model](Loss_Given_Default.ipynb)
+### 2. [LGD Model](Loss_Given_Default_Modelling.ipynb)
 This notebook focuses on the modeling of Loss Given Default (LGD) and Exposure at Default (EAD). The steps include:
 
 - Data preprocessing for LGD & EAD
