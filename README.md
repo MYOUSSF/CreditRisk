@@ -20,4 +20,9 @@ This notebook focuses on the modeling of Loss Given Default (LGD) and Exposure a
 - Building and evaluating models to estimate LGD and EAD
 - Evaluating model performance with different metrics
 - Interpreting the significance of the features.
+
+
+### 3. Dataset:
+- [Link to the dataset](https://www.kaggle.com/datasets/shawnysun/loan-data-for-credit-risk-modeling)
+- [Description of the dataset](LCDataDictionary.xlsx)
  
